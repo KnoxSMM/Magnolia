@@ -3748,7 +3748,8 @@
 			}
 
 			#wrapper > .main > header.accent1 {
-				background-color: #23b1ec;
+				background-image: url('https://knoxsmm.github.io/Magnolia/images/Magnolia.jpg');
+    				background-size: cover;
 				color: rgba(255, 255, 255, 0.75);
 			}
 
