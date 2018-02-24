@@ -3545,6 +3545,8 @@
 				-webkit-transition: -webkit-transform 0.75s ease-out, opacity 1.25s ease;
 				-ms-transition: -ms-transform 0.75s ease-out, opacity 1.25s ease;
 				transition: transform 0.75s ease-out, opacity 1.25s ease;
+				background-image: url('../images/Magnolia.jpg');
+    				background-size: cover;
 			}
 
 			#banner .content.secondary {
