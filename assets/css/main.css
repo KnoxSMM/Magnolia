@@ -1751,6 +1751,7 @@
 	}
 
 	p {
+		font-size: 1.25rem;
 		margin: 0 0 2rem 0;
 	}
 
@@ -1782,11 +1783,11 @@
 	}
 
 	h3 {
-		font-size: 1.35rem;
+		font-size: 1.75rem;
 	}
 
 	h4 {
-		font-size: 1.1rem;
+		font-size: 1.5	rem;
 		margin: 0 0 0.65rem 0;
 	}
 
@@ -1901,7 +1902,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #3b3b3b;
+		color: #23b1ec;
 	}
 
 	blockquote {
@@ -3745,6 +3746,7 @@
 			}
 
 			#wrapper > .main > header.accent1 {
+				background-color: #23b1ec;
 				color: rgba(255, 255, 255, 0.75);
 			}
 			
@@ -4247,7 +4249,7 @@
 					height: 5.5rem;
 					line-height: 5.5rem;
 					font-weight: 400;
-					font-size: 1.35rem;
+					font-size: 1.75rem;
 					position: relative;
 					z-index: 1;
 				}
