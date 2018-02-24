@@ -3547,6 +3547,11 @@
 				-ms-transition: -ms-transform 0.75s ease-out, opacity 1.25s ease;
 				transition: transform 0.75s ease-out, opacity 1.25s ease;
 			}
+			
+			#banner .content.primary.homepage {
+				background-image: url('https://knoxsmm.github.io/Magnolia/images/Magnolia.jpg');
+    				background-size: cover;
+			}
 
 			#banner .content.secondary {
 				padding: 4.5rem 0 2.5rem 0 ;
