@@ -3745,6 +3745,10 @@
 			}
 
 			#wrapper > .main > header.accent1 {
+				color: rgba(255, 255, 255, 0.75);
+			}
+			
+			#wrapper > .main > header.homepage {
 				background-image: url('https://knoxsmm.github.io/Magnolia/images/Magnolia.jpg');
     				background-size: cover;
 				color: rgba(255, 255, 255, 0.75);
