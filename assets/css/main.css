@@ -3747,12 +3747,6 @@
 				margin-right: auto;
 			}
 			
-			#wrapper > .main > header.homepage {
-				background-image: url('https://knoxsmm.github.io/Magnolia/images/About-us.jpg');
-    				background-size: cover;
-				color: rgba(255, 255, 255, 0.75);
-			}
-
 			#wrapper > .main > header > :last-child {
 				margin-bottom: 2rem;
 			}
@@ -3763,7 +3757,7 @@
 			}
 			
 			#wrapper > .main > header.homepage {
-				background-image: url('https://knoxsmm.github.io/Magnolia/images/Magnolia.jpg');
+				background-image: url('https://knoxsmm.github.io/Magnolia/images/About-us.jpeg');
     				background-size: cover;
 				color: rgba(255, 255, 255, 0.75);
 			}
