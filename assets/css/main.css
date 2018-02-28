@@ -3253,7 +3253,7 @@
 		height: 3.25rem;
 		line-height: 3.25rem;
 		background-color: #ffffff;
-		box-shadow: 0 0 0.5rem 0 rgba(0, 0, 0, 0.125);
+		/* box-shadow: 0 0 0.5rem 0 rgba(0, 0, 0, 0.125); */
 		cursor: default;
 		z-index: 10000;
 	}
