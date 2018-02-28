@@ -3264,6 +3264,7 @@
 			position: absolute;
 			left: 1rem;
 			max-height: 45px;
+			padding-top: 5px;
 		}
 
 			#header > .logo strong {
