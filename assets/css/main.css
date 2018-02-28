@@ -3263,6 +3263,7 @@
 		#header > .logo {
 			position: absolute;
 			left: 1rem;
+			max-height: 45px;
 		}
 
 			#header > .logo strong {
@@ -3744,6 +3745,12 @@
 				max-width: calc(100% - 6rem);
 				margin-left: auto;
 				margin-right: auto;
+			}
+			
+			#wrapper > .main > header.homepage {
+				background-image: url('https://knoxsmm.github.io/Magnolia/images/About-us.jpg');
+    				background-size: cover;
+				color: rgba(255, 255, 255, 0.75);
 			}
 
 			#wrapper > .main > header > :last-child {
