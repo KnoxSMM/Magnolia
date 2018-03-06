@@ -61,8 +61,11 @@ font-size: 1.75rem;
 			position: absolute;
 			left: 1rem;
 			max-height: 45px;
-		}			
+		}	
+		
+#header.alt { Remove background color		
 
+#header { (line 3248) Height:4.5rem
 	
 <header>
 <h1 style="
