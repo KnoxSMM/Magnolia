@@ -92,3 +92,5 @@ box-shadow: 0 0 0.5rem 0 rgba(0, 0, 0, 0.125); */
 								<a href="index.html"><strong>Magnolia</strong> <span class="extra">Insurance Group</span></a>
 							</div>			
 			
+Icons 
+<i class="icon fa-heartbeat"> in text headers
