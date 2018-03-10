@@ -3767,6 +3767,12 @@
     				background-size: cover;
 				color: rgba(255, 255, 255, 0.75);
 			}
+			
+			#wrapper > .main > header.quote {
+				background-image: url('https://knoxsmm.github.io/Magnolia/images/Quote.jpeg');
+    				background-size: cover;
+				color: rgba(255, 255, 255, 0.75);
+			}
 
 				#wrapper > .main > header.accent1 input, #wrapper > .main > header.accent1 select, #wrapper > .main > header.accent1 textarea {
 					color: #ffffff;
