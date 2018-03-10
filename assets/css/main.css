@@ -3760,6 +3760,8 @@
 			#wrapper > .main > header.accent1 {
 				background-color: #23b1ec;
 				color: rgba(255, 255, 255, 0.75);
+				text-transform: uppercase;
+
 			}
 			
 			#wrapper > .main > header.homepage {
