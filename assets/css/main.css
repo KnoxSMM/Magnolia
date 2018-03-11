@@ -3792,7 +3792,7 @@
 					color: #ffffff;
 				}
 				
-				#wrapper > .main > header.accent1.quote h1, #wrapper > .main > header.accent1 h2, #wrapper > .main > header.accent1 h3, #wrapper > .main > header.accent1 h4, #wrapper > .main > header.accent1 h5, #wrapper > .main > header.accent1 h6 {
+				#wrapper > .main > header.quote h1, #wrapper > .main > header.accent1 h2, #wrapper > .main > header.accent1 h3, #wrapper > .main > header.accent1 h4, #wrapper > .main > header.accent1 h5, #wrapper > .main > header.accent1 h6 {
 					color: #000000;
 				}
 
